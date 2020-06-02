@@ -1,9 +1,5 @@
 /*
-Készítő:
-    rolux  
- 
-Ékezetes karakterek javítása textdrawokban , gametextekben és menükben.
- 
+	Ékezetes karakterek javítása textdrawokban , gametextekben és menükben.
 */
 
 #if defined r_fixchar_included
